@@ -24,7 +24,7 @@ view,text,image,swiper,swiper-item,scroll-view  {
 	box-sizing: border-box;
 }
 page {
-	background-color: #e5e5e5;
+	background-color: #ededed;
 }
 </style>
 <style lang="scss">
